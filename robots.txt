@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://peighupai.danielblakedesign.com/sitemap.xml
